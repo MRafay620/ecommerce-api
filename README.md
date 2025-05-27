@@ -36,7 +36,7 @@ A comprehensive back-end API for powering e-commerce admin dashboards with sales
 
 ### 1. Clone the Repository
 ```bash
-git clone MRafay620/ecommerce-api
+git clone https://github.com/MRafay620
 cd ecommerce-admin-api
 ```
 
